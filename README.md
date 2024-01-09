@@ -1,6 +1,6 @@
-# scholer
+# Scholar ERP - Flutter Application
 
-A new Flutter project.
+Scholar ERP is a comprehensive Enterprise Resource Planning (ERP) system built using Flutter, designed specifically for educational institutions. This cross-platform application offers a user-friendly interface and a range of features to streamline academic and administrative processes.
 
 ## Features
 
