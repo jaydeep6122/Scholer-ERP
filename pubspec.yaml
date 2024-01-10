@@ -47,7 +47,7 @@ dependencies:
   google_maps_flutter: 
   file_picker: ^5.2.6
   easy_geofencing: ^0.2.0
- 
+  
   image_picker: ^0.8.7+4
   url_launcher: ^6.1.10
   flutter_file_downloader: ^1.1.2

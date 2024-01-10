@@ -26,20 +26,20 @@ class _attendancesemState extends State<attendancesem> {
     return Container(
       child: Scaffold(
           appBar: AppBar(
-            title: Text("attendancesem"),
+            title: const Text("attendancesem"),
             centerTitle: true,
-            backgroundColor: Color.fromRGBO(96, 63, 131, 1),
+            backgroundColor: const Color.fromRGBO(96, 63, 131, 1),
           ),
           endDrawer: drawer(),
           body: Center(
             child: Column(
               children: [
-                SizedBox(
+                const SizedBox(
                   height: 25,
                 ),
                 Card(
                     elevation: 20,
-                    color: Color.fromRGBO(214, 223, 223, 1),
+                    color: const Color.fromRGBO(214, 223, 223, 1),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(25),
                     ),
@@ -51,16 +51,16 @@ class _attendancesemState extends State<attendancesem> {
                               onPressed: () {
                                 Get.to(() => attendancesubject("sem 1"));
                               },
-                              child: Text('Semester - 1',
+                              child: const Text('Semester - 1',
                                   style: TextStyle(
                                       fontSize: 25, color: Colors.white)))),
                     )),
-                SizedBox(
+                const SizedBox(
                   height: 25,
                 ),
                 Card(
                     elevation: 20,
-                    color: Color.fromRGBO(193, 203, 203, 1),
+                    color: const Color.fromRGBO(193, 203, 203, 1),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(25),
                     ),
@@ -72,16 +72,16 @@ class _attendancesemState extends State<attendancesem> {
                               onPressed: () {
                                 Get.to(() => attendancesubject("sem 2"));
                               },
-                              child: Text('Semester - 2',
+                              child: const Text('Semester - 2',
                                   style: TextStyle(
                                       fontSize: 25, color: Colors.white)))),
                     )),
-                SizedBox(
+                const SizedBox(
                   height: 25,
                 ),
                 Card(
                     elevation: 20,
-                    color: Color.fromRGBO(168, 177, 177, 1),
+                    color: const Color.fromRGBO(168, 177, 177, 1),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(25),
                     ),
@@ -93,16 +93,16 @@ class _attendancesemState extends State<attendancesem> {
                               onPressed: () {
                                 Get.to(() => attendancesubject("sem 3"));
                               },
-                              child: Text('Semester - 3',
+                              child: const Text('Semester - 3',
                                   style: TextStyle(
                                       fontSize: 25, color: Colors.white)))),
                     )),
-                SizedBox(
+                const SizedBox(
                   height: 25,
                 ),
                 Card(
                     elevation: 20,
-                    color: Color.fromRGBO(144, 152, 152, 1),
+                    color: const Color.fromRGBO(144, 152, 152, 1),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(25),
                     ),
@@ -114,7 +114,7 @@ class _attendancesemState extends State<attendancesem> {
                               onPressed: () {
                                 Get.to(() => attendancesubject("sem 4"));
                               },
-                              child: Text('Semester - 4',
+                              child: const Text('Semester - 4',
                                   style: TextStyle(
                                       fontSize: 25, color: Colors.white)))),
                     )),

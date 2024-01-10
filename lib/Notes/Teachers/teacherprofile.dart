@@ -26,8 +26,8 @@ class _teacherprofileState extends State<teacherprofile> {
   TextEditingController nameController = TextEditingController();
   TextEditingController emailController = TextEditingController();
   TextEditingController phoneController = TextEditingController();
-  TextEditingController parentsController = TextEditingController();
-  TextEditingController subjectController = TextEditingController();
+  TextEditingController occupationController = TextEditingController();
+
   // TextEditingController passwordController = TextEditingController();
   DateTime _dateTime = DateTime.now();
   Future selectfile() async {
@@ -139,7 +139,7 @@ class _teacherprofileState extends State<teacherprofile> {
                         child: TextFormField(
                           keyboardType: TextInputType.phone,
                           // maxLength: 10,
-                          controller: parentsController,
+                          controller: occupationController,
                           decoration: InputDecoration(
                             fillColor: Colors.grey.shade100,
                             filled: true,
@@ -237,7 +237,7 @@ class _teacherprofileState extends State<teacherprofile> {
                                 var name = nameController.text.trim();
                                 var phone = phoneController.text.trim();
                                 var parentsphone =
-                                    parentsController.text.trim();
+                                    occupationController.text.trim();
                                 //var subject = subjectController.text.trim();
                                 var image = imageurl;
                                 await teacherprofileregister(

@@ -34,15 +34,6 @@ class _selectonState extends State<selecton> {
               //mainAxisAlignment: MainAxisAlignment.center,
               //crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                // Container(
-                //   alignment: Alignment.topCenter,
-                //   padding: EdgeInsets.only(
-                //       top: MediaQuery.of(context).size.height * 0.14),
-                //   child: const Image(image: AssetImage("assets/logo.png")),
-                // ),
-                // SizedBox(
-                //   height: 20,
-                // ),
                 SizedBox(
                   height: 15,
                 ),
