@@ -36,3 +36,9 @@ Synchronization Across Devices:- Ensure seamless access to notes across multiple
 ### Attendance Tracking for Students
 
 Personalized Attendance History:- Enable students to view their attendance history for each Subjects.
+
+## Screenshots
+
+### Student Panel
+
+![Third_Fetch](https://github.com/jaydeep6122/Fetch_Random_API/blob/main/Screenshots/Screenshot_20240109_233232.jpg)
