@@ -36,7 +36,3 @@ Synchronization Across Devices:- Ensure seamless access to notes across multiple
 ### Attendance Tracking for Students
 
 Personalized Attendance History:- Enable students to view their attendance history for each Subjects.
-
-
-
->>>>>>> 09ed3d630ac9414c65bcf9afb78fc88a93e60b4f
