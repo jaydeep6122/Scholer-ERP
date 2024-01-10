@@ -39,6 +39,34 @@ Personalized Attendance History:- Enable students to view their attendance histo
 
 ## Screenshots
 
-### Student Panel
+### Common Page For Student And Teacher
 
-![Student_All_Screenshots](https://github.com/jaydeep6122/Scholer-ERP/tree/main/Screenshots/Student)
+#### First Page
+
+![Selection_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Teacher/Screenshot_20240108_161740.jpg)
+
+#### Login Page
+
+![Login_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Teacher/Screenshot_20240108_162039.jpg)
+
+#### Feedback Page
+
+![Feedback_form__Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Teacher/Screenshot_20240108_162207.jpg)
+
+### Student 
+
+#### Home Page
+![Home_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Student/Screenshot_20240108_162234.jpg)
+
+#### Drawer 
+![Drawer_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Student/Screenshot_20240108_162241.jpg)
+
+#### Attendance Page
+![Attendance_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Student/Screenshot_20240108_162246.jpg)
+
+#### Subject Page for Particular Semester
+![Subject_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Student/Screenshot_20240108_162301.jpg)
+
+#### Notes Page
+
+![Notes_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Student/Screenshot_20240108_162312.jpg)
