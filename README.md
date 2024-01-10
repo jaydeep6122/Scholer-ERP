@@ -41,4 +41,4 @@ Personalized Attendance History:- Enable students to view their attendance histo
 
 ### Student Panel
 
-![Third_Fetch](https://github.com/jaydeep6122/Fetch_Random_API/blob/main/Screenshots/Screenshot_20240109_233232.jpg)
+![Student_All_Screenshots](https://github.com/jaydeep6122/Scholer-ERP/tree/main/Screenshots/Student)
