@@ -53,7 +53,7 @@ Personalized Attendance History:- Enable students to view their attendance histo
 
 ![Feedback_form__Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Teacher/Screenshot_20240108_162207.jpg)
 
-### Student 
+### Student Side
 
 #### Home Page
 ![Home_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Student/Screenshot_20240108_162234.jpg)
@@ -70,3 +70,21 @@ Personalized Attendance History:- Enable students to view their attendance histo
 #### Notes Page
 
 ![Notes_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Student/Screenshot_20240108_162312.jpg)
+
+### Teacher Side
+
+#### Home page
+![Home_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Teacher/Screenshot_20240108_162104.jpg)
+
+#### Draer Page
+![Drawer_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Teacher/Screenshot_20240108_162108.jpg)
+
+#### Attendance Taking Page
+![Attendance_Taking_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Teacher/Screenshot_20240108_162149.jpg)
+
+#### Teacher Subject Page
+![Teacher Subject_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Teacher/Screenshot_20240108_162118.jpg)
+
+#### Teacher Notes Upload Page
+![Teacher_Notes_Upload_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Teacher/Screenshot_20240108_162133.jpg)
+![Upload_Page](https://github.com/jaydeep6122/Scholer-ERP/blob/main/Screenshots/Teacher/Screenshot_20240108_162136.jpg)
